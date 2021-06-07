@@ -1,0 +1,107 @@
+.form-content-back {
+  background-color: #c7e2ef;
+  width: 1043px;
+  height: 600px;
+  margin: auto;
+  margin-top: 70px;
+  border-radius: 30px;
+}
+.form-content-left {
+  background-color: #c7e2ef;
+  width: 522px;
+  height: 600px;
+  padding: 50px;
+  position: absolute;
+  border-bottom-left-radius: 30px;
+  border-top-left-radius: 30px;
+}
+.image-content-right {
+  background-color: #192639;
+  width: 522px;
+  height: 600px;
+  margin-left: 522px;
+
+  position: absolute;
+  border-bottom-right-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.form-inputs-2 {
+  margin-top: 20px;
+}
+.form-input {
+  width: 415px;
+  height: 73px;
+  background: #f9f9f9;
+  border: none;
+  border-radius: 20px;
+  padding: 20px;
+}
+.form-input-btn {
+  width: 180px;
+  height: 50.53px;
+  margin-top: 20px;
+  background: #2487ce;
+  margin-left: 235px;
+  border: none;
+  border-radius: 15px;
+  color: #f9f9f9;
+  font-weight: 600;
+  font-size: 24px;
+}
+.form {
+  margin-top: 50px;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+}
+input {
+  text-align: left;
+  color: #ababab;
+}
+.form-input-label {
+  margin-top: 30px;
+}
+
+.headers {
+  text-align: left;
+  margin-left: 2px;
+  margin-top: 140px;
+}
+
+.logo-dppapp {
+  margin-top: 250px;
+}
+.logo-pkk {
+  width: 87px;
+  height: 87px;
+  margin-top: 240px;
+  margin-left: 10px;
+}
+.logo-carik {
+  width: 77px;
+  height: 77px;
+  margin-top: 240px;
+  margin-left: 10px;
+}
+
+.p-awal {
+  font-size: 23px;
+  font-weight: 500;
+  color: #f9f9f9;
+}
+
+/* Start Here for InputGroup */
+.inputGroup {
+  background-color: #fff;
+  display: block;
+  margin: 10px 0;
+  position: relative;
+  border-radius: 20px;
+  padding: 15px;
+  text-align: left;
+}
+
+/* close here */

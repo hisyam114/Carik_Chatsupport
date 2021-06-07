@@ -1,0 +1,93 @@
+.form-content-back{
+    background-color: #C7E2EF;
+    width: 1043px;
+    height: 600px;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 30px;
+}
+.LoginAdmin{
+    background: #fefefe;
+}
+header{
+    background: #fefefe;
+}
+.form-content-left{
+    background-color:   #C7E2EF;
+    width: 522px;
+    height: 600px;
+    position: absolute;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.image-content-right{
+    background-color:  #192639;
+    width: 522px;
+    height: 600px;
+    margin-left: 522px;
+
+    position: absolute;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.form-input-btn{
+    width: 203px;
+    height: 70.53px;
+    margin-top: 30px;
+    margin-right: 10px;
+    background: #2487CE;
+    border:none;
+    border-radius: 20px;
+    color: #F9F9F9;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+.form{
+    margin-top: 50px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal; 
+    font-weight: bold;
+    font-size: 48px;
+}
+h4{
+    margin-right: 250px;
+}
+input{
+    text-align: center;
+    color: #ABABAB;
+    font-size: 20px;
+}
+.form-input-label{
+    margin-top: 30px;
+}
+.logo-dppapp{
+    margin-left: 80px;
+    margin-top: 250px;
+}
+.logo-pkk{
+    width: 77px;
+    height: 77px;
+    margin-top: 240px;
+    margin-left: 10px;
+}
+.logo-carik{
+    width: 77px;
+    height: 77px;
+    margin-top: 240px;
+    margin-left: 10px;
+}
+p{
+    margin-left: 140px;
+    color: #Ffffff;
+    margin-top: 10px;
+    font-size: 23px;
+    font-weight: 500;
+
+}
+.form-input{
+    padding :20px;
+}

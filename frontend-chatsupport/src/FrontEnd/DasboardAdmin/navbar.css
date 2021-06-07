@@ -1,0 +1,36 @@
+
+.logo-dppapp1{
+    margin-left: 20px;
+    margin-top:5px;
+    margin-bottom:5px;
+    width: 100px;
+    height: 35px;
+
+}
+.logo-pkk1{
+    margin-left: 10px;
+    margin-top:5px;
+    margin-bottom:5px;
+    height: 45px;
+    width: 45px;
+}
+.logo-carik1{
+    margin-left: 10px;
+    margin-top:5px;
+    margin-bottom:5px;
+    height: 45px;
+    width: 45px;
+}
+.navbar{
+    background-color: #192639;
+}
+.nav-item{
+    right: 0;
+    margin-right: 50px;
+    margin-top: -25px;
+}
+
+#dropdon{
+    font-size: 15px;
+    margin-right: 10px;
+}

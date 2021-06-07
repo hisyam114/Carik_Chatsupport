@@ -1,0 +1,30 @@
+.navs-left{
+    width: 3cm;
+    height: 100%;
+    position: fixed;
+    background-color:#192639 ;
+}
+.col-3{
+    margin-left: -6px;
+    width: 20px;
+    height: 40px;
+    background-color: #192639
+}
+
+.nav-link .active{
+    background-color: pink;
+}
+.logo{
+    width: 30px;
+    margin-top: 5px;
+}
+.nav-link{
+    font-size: 15px;
+    color: white;
+    margin-left: 0;
+}
+.nav-link.active{
+    background-color: #3F516B;
+
+}
+
